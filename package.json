@@ -1,0 +1,29 @@
+{
+  "name": "strummer-prop-types",
+  "version": "0.0.1",
+  "description": "Use strummer schemas as react prop types",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "mocha"
+  },
+  "keywords": [
+    "react",
+    "strummer",
+    "prop",
+    "types"
+  ],
+  "author": "Chris Nguyen <christopher.nguyen13@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/nguyenchr/strummer-prop-types.git",
+  "bugs": {
+    "url": "https://github.com/nguyenchr/strummer-prop-types/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "standard": "^10.0.3"
+  }
+}

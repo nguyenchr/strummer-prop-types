@@ -3,9 +3,7 @@
 > Use strummer schemas as react prop types
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
-[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
-
+![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)
 [![Build Status](https://travis-ci.org/nguyenchr/strummer-prop-types.svg?branch=master)](https://travis-ci.org/nguyenchr/strummer-prop-types)
 
 ## Why
@@ -57,3 +55,7 @@ const schema = {
 
 export default WithProps(MyComponent, schema)
 ```
+
+## TODO
+
+Add some tests
